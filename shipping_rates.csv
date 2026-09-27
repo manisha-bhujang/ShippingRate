@@ -1,0 +1,253 @@
+origin,destination,distance_miles,carrier,mode,base_fee_usd,rate_per_lb_per_100mi,fuel_sensitivity,min_weight_lbs,transit_days,on_time_pct
+Phoenix,Los Angeles,428,SwiftHaul Freight,Truck,80.96,0.0565,1.0,0,2,0.92
+Phoenix,Los Angeles,428,Summit Trucking,Truck,122.84,0.0453,1.0,0,2,0.9
+Phoenix,Los Angeles,428,IronLine Rail,Rail,335.54,0.0237,0.4,500,4,0.84
+Phoenix,Los Angeles,428,CrossCountry Intermodal,Intermodal,242.97,0.0272,0.6,300,3,0.87
+Phoenix,Los Angeles,428,JetStream Air Cargo,Air,145.48,0.172,1.6,0,1,0.98
+Phoenix,Los Angeles,428,SkyBridge Express,Air,213.85,0.1614,1.5,0,1,0.96
+Phoenix,Seattle,1338,SwiftHaul Freight,Truck,80.81,0.0584,1.0,0,4,0.95
+Phoenix,Seattle,1338,Summit Trucking,Truck,118.08,0.0499,1.0,0,4,0.87
+Phoenix,Seattle,1338,IronLine Rail,Rail,344.28,0.024,0.4,500,6,0.82
+Phoenix,Seattle,1338,CrossCountry Intermodal,Intermodal,258.69,0.0276,0.6,300,5,0.88
+Phoenix,Seattle,1338,JetStream Air Cargo,Air,153.45,0.2017,1.6,0,2,0.97
+Phoenix,Seattle,1338,SkyBridge Express,Air,217.33,0.1751,1.5,0,1,0.95
+Phoenix,Dallas,1061,SwiftHaul Freight,Truck,86.01,0.0586,1.0,0,3,0.95
+Phoenix,Dallas,1061,Summit Trucking,Truck,122.45,0.0487,1.0,0,3,0.86
+Phoenix,Dallas,1061,IronLine Rail,Rail,342.63,0.0208,0.4,500,6,0.81
+Phoenix,Dallas,1061,CrossCountry Intermodal,Intermodal,240.03,0.0284,0.6,300,5,0.86
+Phoenix,Dallas,1061,JetStream Air Cargo,Air,147.97,0.1952,1.6,0,1,0.96
+Phoenix,Dallas,1061,SkyBridge Express,Air,214.87,0.1507,1.5,0,1,0.98
+Phoenix,Chicago,1742,SwiftHaul Freight,Truck,85.93,0.0566,1.0,0,5,0.91
+Phoenix,Chicago,1742,Summit Trucking,Truck,115.96,0.0502,1.0,0,4,0.88
+Phoenix,Chicago,1742,IronLine Rail,Rail,354.9,0.0242,0.4,500,7,0.84
+Phoenix,Chicago,1742,CrossCountry Intermodal,Intermodal,258.57,0.0311,0.6,300,6,0.89
+Phoenix,Chicago,1742,JetStream Air Cargo,Air,142.98,0.1797,1.6,0,2,0.96
+Phoenix,Chicago,1742,SkyBridge Express,Air,213.64,0.1526,1.5,0,2,0.98
+Phoenix,Atlanta,1906,SwiftHaul Freight,Truck,83.42,0.0591,1.0,0,5,0.94
+Phoenix,Atlanta,1906,Summit Trucking,Truck,124.97,0.047,1.0,0,5,0.89
+Phoenix,Atlanta,1906,IronLine Rail,Rail,341.13,0.021,0.4,500,8,0.84
+Phoenix,Atlanta,1906,CrossCountry Intermodal,Intermodal,252.11,0.0286,0.6,300,7,0.89
+Phoenix,Atlanta,1906,JetStream Air Cargo,Air,145.79,0.1862,1.6,0,2,0.99
+Phoenix,Atlanta,1906,SkyBridge Express,Air,211.0,0.1603,1.5,0,2,0.92
+Phoenix,New York,2567,SwiftHaul Freight,Truck,86.08,0.0507,1.0,0,6,0.95
+Phoenix,New York,2567,Summit Trucking,Truck,114.76,0.0473,1.0,0,6,0.88
+Phoenix,New York,2567,IronLine Rail,Rail,351.02,0.0242,0.4,500,10,0.87
+Phoenix,New York,2567,CrossCountry Intermodal,Intermodal,237.79,0.0322,0.6,300,8,0.88
+Phoenix,New York,2567,JetStream Air Cargo,Air,150.55,0.1969,1.6,0,2,0.96
+Phoenix,New York,2567,SkyBridge Express,Air,211.45,0.1645,1.5,0,2,0.95
+Los Angeles,Phoenix,428,SwiftHaul Freight,Truck,88.86,0.0545,1.0,0,2,0.95
+Los Angeles,Phoenix,428,Summit Trucking,Truck,120.01,0.0457,1.0,0,2,0.87
+Los Angeles,Phoenix,428,IronLine Rail,Rail,362.97,0.0238,0.4,500,4,0.83
+Los Angeles,Phoenix,428,CrossCountry Intermodal,Intermodal,252.72,0.0308,0.6,300,3,0.85
+Los Angeles,Phoenix,428,JetStream Air Cargo,Air,150.59,0.2,1.6,0,1,0.99
+Los Angeles,Phoenix,428,SkyBridge Express,Air,209.01,0.161,1.5,0,1,0.94
+Los Angeles,Seattle,1153,SwiftHaul Freight,Truck,88.65,0.0497,1.0,0,4,0.95
+Los Angeles,Seattle,1153,Summit Trucking,Truck,117.69,0.0512,1.0,0,3,0.86
+Los Angeles,Seattle,1153,IronLine Rail,Rail,365.64,0.0237,0.4,500,6,0.82
+Los Angeles,Seattle,1153,CrossCountry Intermodal,Intermodal,239.23,0.0299,0.6,300,5,0.89
+Los Angeles,Seattle,1153,JetStream Air Cargo,Air,144.43,0.2001,1.6,0,1,0.97
+Los Angeles,Seattle,1153,SkyBridge Express,Air,214.83,0.1616,1.5,0,1,0.97
+Los Angeles,Dallas,1485,SwiftHaul Freight,Truck,82.55,0.0542,1.0,0,4,0.93
+Los Angeles,Dallas,1485,Summit Trucking,Truck,116.41,0.0502,1.0,0,4,0.88
+Los Angeles,Dallas,1485,IronLine Rail,Rail,355.25,0.0242,0.4,500,7,0.84
+Los Angeles,Dallas,1485,CrossCountry Intermodal,Intermodal,240.53,0.0301,0.6,300,6,0.85
+Los Angeles,Dallas,1485,JetStream Air Cargo,Air,151.32,0.1838,1.6,0,2,0.95
+Los Angeles,Dallas,1485,SkyBridge Express,Air,210.56,0.151,1.5,0,1,0.96
+Los Angeles,Chicago,2091,SwiftHaul Freight,Truck,88.45,0.052,1.0,0,5,0.95
+Los Angeles,Chicago,2091,Summit Trucking,Truck,116.86,0.0439,1.0,0,5,0.9
+Los Angeles,Chicago,2091,IronLine Rail,Rail,337.13,0.0207,0.4,500,8,0.87
+Los Angeles,Chicago,2091,CrossCountry Intermodal,Intermodal,249.32,0.0304,0.6,300,7,0.89
+Los Angeles,Chicago,2091,JetStream Air Cargo,Air,145.36,0.2017,1.6,0,2,0.95
+Los Angeles,Chicago,2091,SkyBridge Express,Air,218.32,0.1578,1.5,0,2,0.95
+Los Angeles,Atlanta,2319,SwiftHaul Freight,Truck,86.47,0.0575,1.0,0,6,0.96
+Los Angeles,Atlanta,2319,Summit Trucking,Truck,118.83,0.0441,1.0,0,5,0.88
+Los Angeles,Atlanta,2319,IronLine Rail,Rail,341.2,0.0236,0.4,500,9,0.82
+Los Angeles,Atlanta,2319,CrossCountry Intermodal,Intermodal,248.05,0.0297,0.6,300,8,0.86
+Los Angeles,Atlanta,2319,JetStream Air Cargo,Air,156.35,0.1805,1.6,0,2,0.97
+Los Angeles,Atlanta,2319,SkyBridge Express,Air,221.11,0.1716,1.5,0,2,0.92
+Los Angeles,New York,2934,SwiftHaul Freight,Truck,87.86,0.0605,1.0,0,7,0.96
+Los Angeles,New York,2934,Summit Trucking,Truck,124.18,0.0521,1.0,0,6,0.87
+Los Angeles,New York,2934,IronLine Rail,Rail,339.98,0.0219,0.4,500,11,0.83
+Los Angeles,New York,2934,CrossCountry Intermodal,Intermodal,246.97,0.0274,0.6,300,9,0.9
+Los Angeles,New York,2934,JetStream Air Cargo,Air,154.26,0.1811,1.6,0,2,0.97
+Los Angeles,New York,2934,SkyBridge Express,Air,230.06,0.1575,1.5,0,2,0.98
+Seattle,Phoenix,1338,SwiftHaul Freight,Truck,86.86,0.0556,1.0,0,4,0.91
+Seattle,Phoenix,1338,Summit Trucking,Truck,125.62,0.046,1.0,0,4,0.89
+Seattle,Phoenix,1338,IronLine Rail,Rail,358.68,0.0222,0.4,500,6,0.81
+Seattle,Phoenix,1338,CrossCountry Intermodal,Intermodal,250.07,0.0305,0.6,300,5,0.89
+Seattle,Phoenix,1338,JetStream Air Cargo,Air,156.91,0.177,1.6,0,2,0.94
+Seattle,Phoenix,1338,SkyBridge Express,Air,222.09,0.1499,1.5,0,1,0.96
+Seattle,Los Angeles,1153,SwiftHaul Freight,Truck,81.77,0.0521,1.0,0,4,0.95
+Seattle,Los Angeles,1153,Summit Trucking,Truck,121.13,0.0456,1.0,0,3,0.9
+Seattle,Los Angeles,1153,IronLine Rail,Rail,352.93,0.0216,0.4,500,6,0.84
+Seattle,Los Angeles,1153,CrossCountry Intermodal,Intermodal,242.61,0.0326,0.6,300,5,0.88
+Seattle,Los Angeles,1153,JetStream Air Cargo,Air,148.44,0.1801,1.6,0,1,0.98
+Seattle,Los Angeles,1153,SkyBridge Express,Air,215.96,0.1536,1.5,0,1,0.97
+Seattle,Dallas,2015,SwiftHaul Freight,Truck,84.65,0.0503,1.0,0,5,0.96
+Seattle,Dallas,2015,Summit Trucking,Truck,114.88,0.0528,1.0,0,5,0.87
+Seattle,Dallas,2015,IronLine Rail,Rail,365.16,0.021,0.4,500,8,0.86
+Seattle,Dallas,2015,CrossCountry Intermodal,Intermodal,246.74,0.0323,0.6,300,7,0.85
+Seattle,Dallas,2015,JetStream Air Cargo,Air,153.05,0.2027,1.6,0,2,0.98
+Seattle,Dallas,2015,SkyBridge Express,Air,223.39,0.1756,1.5,0,2,0.92
+Seattle,Chicago,2079,SwiftHaul Freight,Truck,83.29,0.0585,1.0,0,5,0.94
+Seattle,Chicago,2079,Summit Trucking,Truck,115.61,0.0522,1.0,0,5,0.87
+Seattle,Chicago,2079,IronLine Rail,Rail,351.86,0.0203,0.4,500,8,0.83
+Seattle,Chicago,2079,CrossCountry Intermodal,Intermodal,255.44,0.0306,0.6,300,7,0.85
+Seattle,Chicago,2079,JetStream Air Cargo,Air,146.46,0.1951,1.6,0,2,0.97
+Seattle,Chicago,2079,SkyBridge Express,Air,227.61,0.173,1.5,0,2,0.93
+Seattle,Atlanta,2614,SwiftHaul Freight,Truck,83.1,0.0542,1.0,0,6,0.9
+Seattle,Atlanta,2614,Summit Trucking,Truck,121.65,0.0506,1.0,0,6,0.88
+Seattle,Atlanta,2614,IronLine Rail,Rail,351.81,0.0231,0.4,500,10,0.84
+Seattle,Atlanta,2614,CrossCountry Intermodal,Intermodal,239.38,0.0271,0.6,300,8,0.89
+Seattle,Atlanta,2614,JetStream Air Cargo,Air,150.68,0.2053,1.6,0,2,0.99
+Seattle,Atlanta,2614,SkyBridge Express,Air,212.26,0.1626,1.5,0,2,0.93
+Seattle,New York,2882,SwiftHaul Freight,Truck,88.39,0.0529,1.0,0,7,0.95
+Seattle,New York,2882,Summit Trucking,Truck,124.79,0.0515,1.0,0,6,0.87
+Seattle,New York,2882,IronLine Rail,Rail,336.1,0.0209,0.4,500,11,0.86
+Seattle,New York,2882,CrossCountry Intermodal,Intermodal,247.66,0.0323,0.6,300,9,0.88
+Seattle,New York,2882,JetStream Air Cargo,Air,156.45,0.1769,1.6,0,2,0.99
+Seattle,New York,2882,SkyBridge Express,Air,226.84,0.1752,1.5,0,2,0.97
+Dallas,Phoenix,1061,SwiftHaul Freight,Truck,87.01,0.0498,1.0,0,3,0.92
+Dallas,Phoenix,1061,Summit Trucking,Truck,123.63,0.0521,1.0,0,3,0.91
+Dallas,Phoenix,1061,IronLine Rail,Rail,341.84,0.0234,0.4,500,6,0.86
+Dallas,Phoenix,1061,CrossCountry Intermodal,Intermodal,259.3,0.0276,0.6,300,5,0.89
+Dallas,Phoenix,1061,JetStream Air Cargo,Air,154.75,0.1795,1.6,0,1,0.97
+Dallas,Phoenix,1061,SkyBridge Express,Air,226.5,0.1538,1.5,0,1,0.93
+Dallas,Los Angeles,1485,SwiftHaul Freight,Truck,82.39,0.0498,1.0,0,4,0.92
+Dallas,Los Angeles,1485,Summit Trucking,Truck,125.6,0.0515,1.0,0,4,0.88
+Dallas,Los Angeles,1485,IronLine Rail,Rail,346.49,0.0226,0.4,500,7,0.87
+Dallas,Los Angeles,1485,CrossCountry Intermodal,Intermodal,260.98,0.0302,0.6,300,6,0.85
+Dallas,Los Angeles,1485,JetStream Air Cargo,Air,145.18,0.2079,1.6,0,2,0.99
+Dallas,Los Angeles,1485,SkyBridge Express,Air,211.38,0.1525,1.5,0,1,0.95
+Dallas,Seattle,2015,SwiftHaul Freight,Truck,83.42,0.0575,1.0,0,5,0.94
+Dallas,Seattle,2015,Summit Trucking,Truck,118.62,0.0481,1.0,0,5,0.89
+Dallas,Seattle,2015,IronLine Rail,Rail,357.31,0.0209,0.4,500,8,0.81
+Dallas,Seattle,2015,CrossCountry Intermodal,Intermodal,250.96,0.0326,0.6,300,7,0.88
+Dallas,Seattle,2015,JetStream Air Cargo,Air,152.56,0.1992,1.6,0,2,0.96
+Dallas,Seattle,2015,SkyBridge Express,Air,223.61,0.1462,1.5,0,2,0.94
+Dallas,Chicago,966,SwiftHaul Freight,Truck,87.96,0.053,1.0,0,3,0.94
+Dallas,Chicago,966,Summit Trucking,Truck,117.71,0.0461,1.0,0,3,0.88
+Dallas,Chicago,966,IronLine Rail,Rail,342.85,0.0216,0.4,500,5,0.82
+Dallas,Chicago,966,CrossCountry Intermodal,Intermodal,261.01,0.0295,0.6,300,5,0.88
+Dallas,Chicago,966,JetStream Air Cargo,Air,151.73,0.2053,1.6,0,1,0.96
+Dallas,Chicago,966,SkyBridge Express,Air,209.01,0.1615,1.5,0,1,0.94
+Dallas,Atlanta,864,SwiftHaul Freight,Truck,85.68,0.0542,1.0,0,3,0.94
+Dallas,Atlanta,864,Summit Trucking,Truck,119.31,0.0477,1.0,0,3,0.87
+Dallas,Atlanta,864,IronLine Rail,Rail,364.04,0.0219,0.4,500,5,0.86
+Dallas,Atlanta,864,CrossCountry Intermodal,Intermodal,239.62,0.028,0.6,300,4,0.87
+Dallas,Atlanta,864,JetStream Air Cargo,Air,147.53,0.1951,1.6,0,1,0.99
+Dallas,Atlanta,864,SkyBridge Express,Air,223.8,0.168,1.5,0,1,0.93
+Dallas,New York,1644,SwiftHaul Freight,Truck,80.96,0.0517,1.0,0,4,0.91
+Dallas,New York,1644,Summit Trucking,Truck,124.2,0.0478,1.0,0,4,0.86
+Dallas,New York,1644,IronLine Rail,Rail,354.54,0.0216,0.4,500,7,0.82
+Dallas,New York,1644,CrossCountry Intermodal,Intermodal,249.86,0.0312,0.6,300,6,0.85
+Dallas,New York,1644,JetStream Air Cargo,Air,142.58,0.1959,1.6,0,2,0.99
+Dallas,New York,1644,SkyBridge Express,Air,211.34,0.1686,1.5,0,2,0.95
+Chicago,Phoenix,1742,SwiftHaul Freight,Truck,88.89,0.0514,1.0,0,5,0.93
+Chicago,Phoenix,1742,Summit Trucking,Truck,116.99,0.0437,1.0,0,4,0.91
+Chicago,Phoenix,1742,IronLine Rail,Rail,360.55,0.0218,0.4,500,7,0.85
+Chicago,Phoenix,1742,CrossCountry Intermodal,Intermodal,252.39,0.0329,0.6,300,6,0.9
+Chicago,Phoenix,1742,JetStream Air Cargo,Air,151.69,0.2049,1.6,0,2,0.98
+Chicago,Phoenix,1742,SkyBridge Express,Air,227.27,0.1602,1.5,0,2,0.95
+Chicago,Los Angeles,2091,SwiftHaul Freight,Truck,87.07,0.0594,1.0,0,5,0.93
+Chicago,Los Angeles,2091,Summit Trucking,Truck,116.97,0.0457,1.0,0,5,0.9
+Chicago,Los Angeles,2091,IronLine Rail,Rail,350.75,0.0232,0.4,500,8,0.85
+Chicago,Los Angeles,2091,CrossCountry Intermodal,Intermodal,239.44,0.0286,0.6,300,7,0.86
+Chicago,Los Angeles,2091,JetStream Air Cargo,Air,147.3,0.1813,1.6,0,2,0.97
+Chicago,Los Angeles,2091,SkyBridge Express,Air,214.09,0.1484,1.5,0,2,0.96
+Chicago,Seattle,2079,SwiftHaul Freight,Truck,81.3,0.0573,1.0,0,5,0.92
+Chicago,Seattle,2079,Summit Trucking,Truck,118.99,0.0484,1.0,0,5,0.87
+Chicago,Seattle,2079,IronLine Rail,Rail,364.17,0.0216,0.4,500,8,0.85
+Chicago,Seattle,2079,CrossCountry Intermodal,Intermodal,258.92,0.0312,0.6,300,7,0.89
+Chicago,Seattle,2079,JetStream Air Cargo,Air,142.59,0.1855,1.6,0,2,0.96
+Chicago,Seattle,2079,SkyBridge Express,Air,227.78,0.1681,1.5,0,2,0.98
+Chicago,Dallas,966,SwiftHaul Freight,Truck,87.1,0.0541,1.0,0,3,0.93
+Chicago,Dallas,966,Summit Trucking,Truck,116.65,0.049,1.0,0,3,0.87
+Chicago,Dallas,966,IronLine Rail,Rail,333.52,0.0217,0.4,500,5,0.83
+Chicago,Dallas,966,CrossCountry Intermodal,Intermodal,247.61,0.0311,0.6,300,5,0.85
+Chicago,Dallas,966,JetStream Air Cargo,Air,144.41,0.1888,1.6,0,1,0.98
+Chicago,Dallas,966,SkyBridge Express,Air,217.67,0.1449,1.5,0,1,0.95
+Chicago,Atlanta,707,SwiftHaul Freight,Truck,86.21,0.0498,1.0,0,3,0.91
+Chicago,Atlanta,707,Summit Trucking,Truck,114.6,0.0476,1.0,0,3,0.88
+Chicago,Atlanta,707,IronLine Rail,Rail,343.94,0.0207,0.4,500,5,0.86
+Chicago,Atlanta,707,CrossCountry Intermodal,Intermodal,256.3,0.0293,0.6,300,4,0.89
+Chicago,Atlanta,707,JetStream Air Cargo,Air,143.73,0.1806,1.6,0,1,0.94
+Chicago,Atlanta,707,SkyBridge Express,Air,231.0,0.1613,1.5,0,1,0.94
+Chicago,New York,853,SwiftHaul Freight,Truck,87.39,0.0567,1.0,0,3,0.94
+Chicago,New York,853,Summit Trucking,Truck,125.4,0.0504,1.0,0,3,0.87
+Chicago,New York,853,IronLine Rail,Rail,337.83,0.0199,0.4,500,5,0.82
+Chicago,New York,853,CrossCountry Intermodal,Intermodal,251.6,0.031,0.6,300,4,0.85
+Chicago,New York,853,JetStream Air Cargo,Air,154.0,0.1976,1.6,0,1,0.95
+Chicago,New York,853,SkyBridge Express,Air,225.45,0.1634,1.5,0,1,0.93
+Atlanta,Phoenix,1906,SwiftHaul Freight,Truck,88.95,0.0585,1.0,0,5,0.91
+Atlanta,Phoenix,1906,Summit Trucking,Truck,117.74,0.0434,1.0,0,5,0.9
+Atlanta,Phoenix,1906,IronLine Rail,Rail,346.38,0.024,0.4,500,8,0.85
+Atlanta,Phoenix,1906,CrossCountry Intermodal,Intermodal,254.77,0.0275,0.6,300,7,0.88
+Atlanta,Phoenix,1906,JetStream Air Cargo,Air,154.09,0.1749,1.6,0,2,0.99
+Atlanta,Phoenix,1906,SkyBridge Express,Air,211.66,0.1632,1.5,0,2,0.98
+Atlanta,Los Angeles,2319,SwiftHaul Freight,Truck,83.7,0.0581,1.0,0,6,0.93
+Atlanta,Los Angeles,2319,Summit Trucking,Truck,120.07,0.0468,1.0,0,5,0.88
+Atlanta,Los Angeles,2319,IronLine Rail,Rail,361.28,0.0235,0.4,500,9,0.82
+Atlanta,Los Angeles,2319,CrossCountry Intermodal,Intermodal,253.39,0.0328,0.6,300,8,0.89
+Atlanta,Los Angeles,2319,JetStream Air Cargo,Air,149.03,0.1979,1.6,0,2,0.98
+Atlanta,Los Angeles,2319,SkyBridge Express,Air,214.94,0.1749,1.5,0,2,0.97
+Atlanta,Seattle,2614,SwiftHaul Freight,Truck,84.86,0.0554,1.0,0,6,0.93
+Atlanta,Seattle,2614,Summit Trucking,Truck,117.22,0.0502,1.0,0,6,0.91
+Atlanta,Seattle,2614,IronLine Rail,Rail,335.53,0.0235,0.4,500,10,0.86
+Atlanta,Seattle,2614,CrossCountry Intermodal,Intermodal,249.12,0.0285,0.6,300,8,0.88
+Atlanta,Seattle,2614,JetStream Air Cargo,Air,142.93,0.1854,1.6,0,2,0.99
+Atlanta,Seattle,2614,SkyBridge Express,Air,213.67,0.1498,1.5,0,2,0.97
+Atlanta,Dallas,864,SwiftHaul Freight,Truck,88.23,0.0532,1.0,0,3,0.94
+Atlanta,Dallas,864,Summit Trucking,Truck,114.12,0.0459,1.0,0,3,0.92
+Atlanta,Dallas,864,IronLine Rail,Rail,357.7,0.0202,0.4,500,5,0.84
+Atlanta,Dallas,864,CrossCountry Intermodal,Intermodal,254.77,0.0315,0.6,300,4,0.88
+Atlanta,Dallas,864,JetStream Air Cargo,Air,154.39,0.1897,1.6,0,1,0.95
+Atlanta,Dallas,864,SkyBridge Express,Air,224.22,0.1511,1.5,0,1,0.94
+Atlanta,Chicago,707,SwiftHaul Freight,Truck,84.77,0.0559,1.0,0,3,0.93
+Atlanta,Chicago,707,Summit Trucking,Truck,122.95,0.0473,1.0,0,3,0.88
+Atlanta,Chicago,707,IronLine Rail,Rail,341.98,0.0229,0.4,500,5,0.83
+Atlanta,Chicago,707,CrossCountry Intermodal,Intermodal,242.31,0.0277,0.6,300,4,0.85
+Atlanta,Chicago,707,JetStream Air Cargo,Air,153.93,0.1914,1.6,0,1,0.95
+Atlanta,Chicago,707,SkyBridge Express,Air,219.65,0.1509,1.5,0,1,0.96
+Atlanta,New York,895,SwiftHaul Freight,Truck,85.21,0.0602,1.0,0,3,0.92
+Atlanta,New York,895,Summit Trucking,Truck,116.33,0.0442,1.0,0,3,0.87
+Atlanta,New York,895,IronLine Rail,Rail,333.0,0.0206,0.4,500,5,0.84
+Atlanta,New York,895,CrossCountry Intermodal,Intermodal,261.86,0.0286,0.6,300,4,0.87
+Atlanta,New York,895,JetStream Air Cargo,Air,144.39,0.1975,1.6,0,1,0.99
+Atlanta,New York,895,SkyBridge Express,Air,228.2,0.1597,1.5,0,1,0.95
+New York,Phoenix,2567,SwiftHaul Freight,Truck,84.49,0.0547,1.0,0,6,0.91
+New York,Phoenix,2567,Summit Trucking,Truck,125.29,0.0437,1.0,0,6,0.89
+New York,Phoenix,2567,IronLine Rail,Rail,346.52,0.0234,0.4,500,10,0.81
+New York,Phoenix,2567,CrossCountry Intermodal,Intermodal,238.84,0.0308,0.6,300,8,0.85
+New York,Phoenix,2567,JetStream Air Cargo,Air,147.06,0.1924,1.6,0,2,0.99
+New York,Phoenix,2567,SkyBridge Express,Air,225.82,0.1478,1.5,0,2,0.96
+New York,Los Angeles,2934,SwiftHaul Freight,Truck,82.67,0.0582,1.0,0,7,0.93
+New York,Los Angeles,2934,Summit Trucking,Truck,119.31,0.0475,1.0,0,6,0.91
+New York,Los Angeles,2934,IronLine Rail,Rail,343.19,0.0242,0.4,500,11,0.85
+New York,Los Angeles,2934,CrossCountry Intermodal,Intermodal,256.0,0.0307,0.6,300,9,0.9
+New York,Los Angeles,2934,JetStream Air Cargo,Air,145.67,0.1789,1.6,0,2,0.98
+New York,Los Angeles,2934,SkyBridge Express,Air,212.82,0.149,1.5,0,2,0.92
+New York,Seattle,2882,SwiftHaul Freight,Truck,84.58,0.0495,1.0,0,7,0.94
+New York,Seattle,2882,Summit Trucking,Truck,116.78,0.046,1.0,0,6,0.9
+New York,Seattle,2882,IronLine Rail,Rail,348.39,0.0229,0.4,500,11,0.85
+New York,Seattle,2882,CrossCountry Intermodal,Intermodal,257.2,0.0325,0.6,300,9,0.88
+New York,Seattle,2882,JetStream Air Cargo,Air,156.51,0.1961,1.6,0,2,0.97
+New York,Seattle,2882,SkyBridge Express,Air,223.25,0.1614,1.5,0,2,0.97
+New York,Dallas,1644,SwiftHaul Freight,Truck,81.36,0.0586,1.0,0,4,0.91
+New York,Dallas,1644,Summit Trucking,Truck,122.99,0.0462,1.0,0,4,0.89
+New York,Dallas,1644,IronLine Rail,Rail,336.85,0.0211,0.4,500,7,0.85
+New York,Dallas,1644,CrossCountry Intermodal,Intermodal,261.07,0.0312,0.6,300,6,0.87
+New York,Dallas,1644,JetStream Air Cargo,Air,143.71,0.1898,1.6,0,2,0.94
+New York,Dallas,1644,SkyBridge Express,Air,216.09,0.1578,1.5,0,2,0.94
+New York,Chicago,853,SwiftHaul Freight,Truck,88.93,0.0505,1.0,0,3,0.95
+New York,Chicago,853,Summit Trucking,Truck,125.41,0.0487,1.0,0,3,0.92
+New York,Chicago,853,IronLine Rail,Rail,341.93,0.0228,0.4,500,5,0.81
+New York,Chicago,853,CrossCountry Intermodal,Intermodal,249.26,0.0315,0.6,300,4,0.88
+New York,Chicago,853,JetStream Air Cargo,Air,145.22,0.2058,1.6,0,1,0.98
+New York,Chicago,853,SkyBridge Express,Air,219.82,0.1643,1.5,0,1,0.93
+New York,Atlanta,895,SwiftHaul Freight,Truck,83.58,0.0533,1.0,0,3,0.94
+New York,Atlanta,895,Summit Trucking,Truck,117.96,0.0514,1.0,0,3,0.9
+New York,Atlanta,895,IronLine Rail,Rail,365.58,0.0211,0.4,500,5,0.86
+New York,Atlanta,895,CrossCountry Intermodal,Intermodal,248.87,0.0303,0.6,300,4,0.86
+New York,Atlanta,895,JetStream Air Cargo,Air,157.05,0.1833,1.6,0,1,0.96
+New York,Atlanta,895,SkyBridge Express,Air,230.74,0.1605,1.5,0,1,0.96
